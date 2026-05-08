@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 7807-3BD5
+
+ Directory of C:\Users\uwemn\OneDrive\Desktop\MyProject
+
+08/05/2026  09:37    <DIR>          .
+08/05/2026  09:27    <DIR>          ..
+08/05/2026  09:37                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  891,564,204,032 bytes free
